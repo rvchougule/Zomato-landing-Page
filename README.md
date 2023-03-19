@@ -1,2 +1,5 @@
-# Zomato-landing-Page
-Zomata Landing Page build using HTML and CSS
+# This is my zomato landing page clone
+
+## Done with first commit.
+
+## Set Up created here for our appln
